@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.25s linear;
+}
+body {
+    - Dark cyan: hsl(158, 36%, 37%)
+- Cream: hsl(30, 38%, 92%)
+}
